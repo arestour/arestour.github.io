@@ -1,9 +1,11 @@
 {
   "main.css": "static/css/main.0b35514c.css",
   "main.css.map": "static/css/main.0b35514c.css.map",
-  "main.js": "static/js/main.6c345b1b.js",
-  "main.js.map": "static/js/main.6c345b1b.js.map",
+  "main.js": "static/js/main.28d6a08b.js",
+  "main.js.map": "static/js/main.28d6a08b.js.map",
+  "static\\media\\asita.png": "static/media/asita.9305ddb7.png",
   "static\\media\\banner.jpg": "static/media/banner.0fdab174.jpg",
   "static\\media\\logo.png": "static/media/logo.f5b88692.png",
-  "static\\media\\logo_main_2.png": "static/media/logo_main_2.ba370a47.png"
+  "static\\media\\logo_main_2.png": "static/media/logo_main_2.3b57e8aa.png",
+  "static\\media\\wi.png": "static/media/wi.19847f6a.png"
 }
